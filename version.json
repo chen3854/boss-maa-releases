@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "download_url": "https://github.com/chen3854/boss-maa-releases/raw/main/releases/boss-agent-v0.4.2.zip",
-  "notes": "BossAgent v0.4.2 portable bundle",
-  "published_at": "2026-08-18T12:04:02.1822968+08:00"
+  "version": "0.5.3",
+  "download_url": "https://github.com/chen3854/boss-maa-releases/raw/main/releases/boss-agent-v0.5.3.zip",
+  "notes": "BossAgent v0.5.3：全线 PyQt6 界面（移除 Tk），恢复 git 历史中的 gui_qt；worker 退出码修复；greet_prompt/decision_record 固化进包",
+  "published_at": "2026-09-04T16:05:00+08:00"
 }
