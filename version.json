@@ -1,6 +1,6 @@
 {
-  "version": "0.5.3",
-  "download_url": "https://github.com/chen3854/boss-maa-releases/raw/main/releases/boss-agent-v0.5.3.zip",
-  "notes": "BossAgent v0.5.3：全线 PyQt6 界面（移除 Tk），恢复 git 历史中的 gui_qt；worker 退出码修复；greet_prompt/decision_record 固化进包",
-  "published_at": "2026-09-04T16:05:00+08:00"
+  "version": "0.5.4",
+  "download_url": "https://github.com/chen3854/boss-maa-releases/raw/main/releases/boss-agent-v0.5.4.zip",
+  "notes": "BossAgent v0.5.4：词表统一为分级关键词单一事实源（否决归一anti+内置硬否决兜底防汽车美容错放；打招呼单词并入强词保底；组合销售火力保留详情页）；spec 补省市区县/分析仪数据（修意向地区下拉空）",
+  "published_at": "2026-09-19T17:30:00+08:00"
 }
